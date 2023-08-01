@@ -4,7 +4,7 @@ Semantic Segmentation using PyTorch. Based on [2023 SW-centered University Joint
 ## 0. EDA
 - show
 
-  [reference 1]()
+  reference 1 : CAU Visual Computing 2022 You Tae Kyung 
 - simpleEDA
   
   [reference site 1](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
